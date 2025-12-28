@@ -11,7 +11,7 @@ export default function Index() {
       }}
     >
       <Text style={{color:"blue"}}>Edit app/index.tsx to edit this screen.</Text>
-      <Link href={"/about.jsx"}>about</Link>
+      <Link href={"/about"}>about</Link>
     </View>
   );
 }

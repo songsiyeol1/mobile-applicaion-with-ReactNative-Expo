@@ -5,8 +5,9 @@ const About = () => {
         <View>
             <Text>about</Text>
         </View>
-    )
-}
+    );
+};
 
 export default About
+
 
